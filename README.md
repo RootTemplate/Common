@@ -1,2 +1,2 @@
-# Resository Info
-This repository contains common files for a great deal of RootTemplate projects.
+# Repository Info
+This repository contains common files for a most part of RootTemplate projects.
